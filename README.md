@@ -4,6 +4,8 @@ Plays a sound notification whenever Claude asks for your permission to run a too
 
 Never miss a permission prompt again — step away from your keyboard and you'll still hear the ping.
 
+![Ping notification](assets/notification.png)
+
 ## Install
 
 **Step 1** — Add the marketplace:
