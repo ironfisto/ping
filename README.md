@@ -9,20 +9,18 @@ Never miss a permission prompt again — step away from your keyboard and you'll
 **Step 1** — Add the marketplace:
 
 ```shell
-/plugin marketplace add ironfisto/claude-code --sparse .claude-plugin ping
-```
-
-Or locally if you have the repo cloned:
-
-```shell
-/plugin marketplace add ./path/to/plugins
+/plugin marketplace add ironfisto/ping
 ```
 
 **Step 2** — Install the plugin:
 
 ```shell
-/plugin install ping@ironfisto-plugins
+/plugin install ping@ping-plugins
 ```
+
+**Step 3** — Try it out:
+
+Run any command that requires permission and you'll hear the ping.
 
 ## How it works
 
