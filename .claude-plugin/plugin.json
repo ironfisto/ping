@@ -1,0 +1,9 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "Plays a sound notification whenever Claude asks for your permission to run a tool.",
+  "author": {
+    "name": "ironfisto"
+  },
+  "homepage": "https://github.com/anthropics/claude-code/tree/main/plugins/ping"
+}
